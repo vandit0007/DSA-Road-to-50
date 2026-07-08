@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0145-binary-tree-postorder-traversal) |
@@ -64,6 +65,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0057-insert-interval) |
@@ -90,6 +93,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -106,6 +110,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
