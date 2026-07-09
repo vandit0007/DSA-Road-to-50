@@ -72,6 +72,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Array
@@ -83,6 +84,7 @@
 | [0045-jump-game-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0057-insert-interval) |
+| [0217-contains-duplicate](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0496-next-greater-element-i) |
@@ -106,6 +108,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 ## Monotonic Stack
 |  |
