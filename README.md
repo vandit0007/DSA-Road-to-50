@@ -71,6 +71,7 @@
 | [0070-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0503-next-greater-element-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
