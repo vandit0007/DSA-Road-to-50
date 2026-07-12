@@ -71,6 +71,7 @@
 | [0070-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
@@ -91,6 +92,7 @@
 | [0055-jump-game](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0057-insert-interval) |
 | [0198-house-robber](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
