@@ -68,6 +68,7 @@
 | [0042-trapping-rain-water](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0198-house-robber) |
@@ -132,6 +133,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
