@@ -98,6 +98,7 @@
 | [0057-insert-interval](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0198-house-robber) |
@@ -117,6 +118,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -130,6 +132,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1331-rank-transform-of-an-array) |
