@@ -62,6 +62,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0520-detect-capital) |
+| [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0088-merge-sorted-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0055-jump-game](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
