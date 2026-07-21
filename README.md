@@ -116,6 +116,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0867-transpose-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1331-rank-transform-of-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/vandit0007/DSA-Road-to-50/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
@@ -174,9 +175,14 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0064-minimum-path-sum) |
+| [0867-transpose-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
