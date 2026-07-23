@@ -11,6 +11,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0503-next-greater-element-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0020-valid-parentheses](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
