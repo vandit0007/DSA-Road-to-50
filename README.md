@@ -147,6 +147,7 @@
 | [0217-contains-duplicate](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | [0062-unique-paths](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0509-fibonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3536-maximum-product-of-two-digits) |
 ## Memoization
 |  |
 | ------- |
