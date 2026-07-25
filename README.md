@@ -161,6 +161,7 @@
 | [0070-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0509-fibonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
 | ------- |
@@ -189,4 +190,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0867-transpose-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
