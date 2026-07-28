@@ -66,6 +66,7 @@
 | [0520-detect-capital](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0217-contains-duplicate](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1331-rank-transform-of-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
 |  |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
