@@ -74,6 +74,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0063-unique-paths-ii) |
@@ -103,6 +104,7 @@
 | [0027-remove-element](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0063-unique-paths-ii) |
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
