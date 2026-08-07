@@ -112,6 +112,7 @@
 | [0057-insert-interval](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -194,6 +195,7 @@
 | [0048-rotate-image](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0463-island-perimeter) |
 | [0766-toeplitz-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0766-toeplitz-matrix) |
@@ -223,4 +225,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0200-number-of-islands) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
