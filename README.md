@@ -34,6 +34,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0662-maximum-width-of-binary-tree) |
@@ -57,6 +58,7 @@
 | [0100-same-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -113,6 +115,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0283-move-zeroes) |
@@ -188,6 +191,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0463-island-perimeter) |
 | [0766-toeplitz-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0867-transpose-matrix) |
@@ -212,4 +216,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0053-maximum-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
