@@ -184,6 +184,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -229,4 +230,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
