@@ -37,6 +37,7 @@
 | [0200-number-of-islands](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
@@ -60,6 +61,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## String
@@ -227,6 +229,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0547-number-of-provinces) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,4 +239,8 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0876-middle-of-the-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
