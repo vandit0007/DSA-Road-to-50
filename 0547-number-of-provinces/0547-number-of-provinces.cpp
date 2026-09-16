@@ -1,29 +1,42 @@
 class Solution {
-public:
-    void dfs(int city, vector<vector<int>>& isConnected, vector<int>& visited) {
-        visited[city] = 1;  // Mark current city as visited
-        int n = isConnected.size();
-        for (int neighbor = 0; neighbor < n; ++neighbor) {
-            // If there's a connection and neighbor not visited
-            if (isConnected[city][neighbor] == 1 && !visited[neighbor]) {
-                dfs(neighbor, isConnected, visited);
+private:
+    void dfs(int node, vector<int> adjLs[], vector<int>& vis) {
+        vis[node] = 1;
+
+        for (auto it : adjLs[node]) {
+            if (!vis[it]) {
+                dfs(it, adjLs, vis);
             }
         }
     }
 
+public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-        vector<int> visited(n, 0);  // Track visited cities
-        int provinceCount = 0;
+        int V = isConnected.size();
 
-        for (int i = 0; i < n; ++i) {
-            if (!visited[i]) {
-                // Found a new province
-                provinceCount++;
-                dfs(i, isConnected, visited);  // Explore all connected cities
+        vector<int> adjLs[V];
+
+        // Convert adjacency matrix to adjacency list
+        for (int i = 0; i < V; i++) {
+            for (int j = 0; j < V; j++) {
+                if (isConnected[i][j] == 1 && i != j) {
+                    adjLs[i].push_back(j);
+                    adjLs[j].push_back(i);
+                }
             }
         }
 
-        return provinceCount;
+        vector<int> vis(V, 0);
+        int cnt = 0;
+
+        
+        for (int i = 0; i < V; i++) {
+            if (!vis[i]) {
+                cnt++;
+                dfs(i, adjLs, vis);
+            }
+        }
+
+        return cnt;
     }
 };
