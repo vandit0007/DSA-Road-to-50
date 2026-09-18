@@ -66,6 +66,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0994-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0766-toeplitz-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1331-rank-transform-of-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/vandit0007/DSA-Road-to-50/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
@@ -208,6 +210,7 @@
 | [0733-flood-fill](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0994-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
