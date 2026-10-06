@@ -77,6 +77,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -156,6 +157,7 @@
 | [0042-trapping-rain-water](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0876-middle-of-the-linked-list) |
