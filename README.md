@@ -81,6 +81,7 @@
 | [0344-reverse-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
+| [0917-reverse-only-letters](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -163,6 +164,7 @@
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0876-middle-of-the-linked-list) |
+| [0917-reverse-only-letters](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0917-reverse-only-letters) |
 ## Greedy
 |  |
 | ------- |
