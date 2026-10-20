@@ -80,6 +80,7 @@
 | [0125-valid-palindrome](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0917-reverse-only-letters) |
@@ -166,6 +167,7 @@
 | [0125-valid-palindrome](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0876-middle-of-the-linked-list) |
