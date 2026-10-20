@@ -139,6 +139,7 @@
 | [0200-number-of-islands](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
@@ -295,4 +296,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1071-greatest-common-divisor-of-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
