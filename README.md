@@ -84,6 +84,7 @@
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -199,6 +200,7 @@
 | [0062-unique-paths](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3536-maximum-product-of-two-digits](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
@@ -280,4 +282,12 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0785-is-graph-bipartite) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
