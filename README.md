@@ -145,6 +145,7 @@
 | [0496-next-greater-element-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0746-min-cost-climbing-stairs) |
@@ -176,6 +177,7 @@
 | [0055-jump-game](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0860-lemonade-change) |
 ## Sorting
