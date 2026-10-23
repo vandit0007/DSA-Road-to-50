@@ -141,6 +141,7 @@
 | [0217-contains-duplicate](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0463-island-perimeter) |
@@ -179,6 +180,7 @@
 | [0045-jump-game-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
@@ -300,4 +302,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0238-product-of-array-except-self) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
