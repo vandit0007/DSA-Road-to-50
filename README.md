@@ -81,6 +81,7 @@
 | [0242-valid-anagram](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
@@ -104,6 +105,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0746-min-cost-climbing-stairs) |
@@ -171,6 +173,7 @@
 | [0283-move-zeroes](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
