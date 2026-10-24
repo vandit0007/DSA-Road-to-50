@@ -120,6 +120,7 @@
 | [0496-next-greater-element-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1331-rank-transform-of-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/vandit0007/DSA-Road-to-50/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Array
 |  |
@@ -163,6 +164,7 @@
 | [0994-rotting-oranges](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/vandit0007/DSA-Road-to-50/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -182,6 +184,7 @@
 | [0680-valid-palindrome-ii](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0917-reverse-only-letters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -202,6 +205,7 @@
 | [0242-valid-anagram](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1331-rank-transform-of-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
