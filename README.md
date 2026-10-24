@@ -88,6 +88,7 @@
 | [0917-reverse-only-letters](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2409-count-days-spent-together](https://github.com/vandit0007/DSA-Road-to-50/tree/master/2409-count-days-spent-together) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -259,6 +260,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
 | ------- |
