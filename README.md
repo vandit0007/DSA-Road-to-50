@@ -111,6 +111,7 @@
 | [0509-fibonacci-number](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0746-min-cost-climbing-stairs) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [0994-rotting-oranges](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/vandit0007/DSA-Road-to-50/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
@@ -261,6 +263,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Simulation
 |  |
 | ------- |
