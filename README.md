@@ -168,6 +168,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1732-find-the-highest-altitude) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/vandit0007/DSA-Road-to-50/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vandit0007/DSA-Road-to-50/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/vandit0007/DSA-Road-to-50/tree/master/1732-find-the-highest-altitude) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
